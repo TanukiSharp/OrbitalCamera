@@ -1,0 +1,11 @@
+﻿<!-- This is for .NET 5 <Project Sdk="Microsoft.NET.Sdk">-->
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <!-- This is for .NET 5 <TargetFramework>net5.0-windows</TargetFramework>-->
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>
